@@ -2,9 +2,6 @@
 
 Welcome to my GitHub profile! Here’s a little about me:
 
-- 🔭 **What I'm Working On:**  
-   I'm currently focusing on **quantitative trading modeling** and **generative AI for audio**.  
-
 - 🎯 **Main Interests:**  
    My passions lie in **quantitative analysis**, **time series forecasting**, and **Artificial General Intelligence (Multimodal)**.  
 
@@ -13,8 +10,11 @@ Welcome to my GitHub profile! Here’s a little about me:
    - PyTorch, Tinygrad, Numpy, Pandas, Gym, TorchRL, AWS, and more.  
    - Proficient in **Flutter** for developing both frontend and backend applications.
 
+- 🔭 **What I'm Working On:**  
+   I'm currently focusing on **quantitative pair trading modeling on cryptocurrency** and **generative AI for piano**.  
+
 - 🤝 **Let's Collaborate!**  
    Feel free to reach out for collaborations or interesting projects.  
    📧 Email me at: **ssongjinseob@gmail.com**  
 
-Thanks for visiting! 🚀
+Thanks so much for visiting! 🚀
