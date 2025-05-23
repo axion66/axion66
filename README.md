@@ -17,7 +17,7 @@ Backend-ready? I use Firebase for quick development, supabase for more precise o
 
 Full-stack? On Website side, I’ve built with Next.js, styled with Tailwind, and deployed via Vercel, Render, and more.
 
-APIs? I love GCP, but I'm also good at using APIs or sending https requests.
+APIs? I love GCP! Because of this, I'm also familiar w/ using APIs & https requests.
 
 
 For any collaboration, Email me at: **ssongjinseob@gmail.com**  
