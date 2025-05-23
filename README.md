@@ -13,7 +13,7 @@ I’m not just about algorithms—I build things too.
 
 App? I develop with Flutter.
 
-Backend-ready? I use Firebase & Supabase.
+Backend-ready? I use Firebase for quick development, supabase for more precise operations.
 
 Full-stack? On Website side, I’ve built with Next.js, styled with Tailwind, and deployed via Vercel, Render, and more.
 
