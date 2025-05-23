@@ -1,20 +1,23 @@
-# Hi there 👋
+# Hi!
 
-Welcome to my GitHub profile! Here’s a little about me:
+💻 What I Do:
+At heart, I'm an AI researcher. I read at least two to five papers per month. I live and breathe deep learning, reinforcement learning, and the bleeding edge of AGI.
+I regularly dive into AI open-source communities and specialize in:
+🧠 PyTorch, NumPy, Pandas, torchRL
+…and 20+ other libraries that power modern DL & RL systems.
 
-- 🎯 **Main Interests:**  
-   My passions lie in **quantitative analysis**, **time series forecasting**, and **Artificial General Intelligence (Multimodal)**.  
+Lately, I’ve been deep into RLHF on LLM and physical AI where intelligence meets embodiment.
 
-- 💻 **Technical Skills:**  
-   I work extensively with various **Deep Learning (DL)** and **Reinforcement Learning (RL)** libraries:  
-   - PyTorch, Numpy, Pandas, Gym, TorchRL, baseline, AWS, and more.  
-   - Proficient in **Flutter** for developing both frontend and backend applications. created +4 applications.
+🛠️ Beyond Research:
+I’m not just about algorithms—I build things too.
 
-- 🔭 **What I'm Working On:**  
-   I'm currently focusing on **quantitative pair trading modeling on cryptocurrency** and **generative AI for piano**.  
+App? I develop with Flutter.
 
-- 🤝 **Let's Collaborate!**  
-   Feel free to reach out for collaborations or interesting projects.  
-   📧 Email me at: **ssongjinseob@gmail.com**  
+Backend-ready? I use Firebase & Supabase.
 
-Thanks so much for visiting! 🚀
+Full-stack? On Website side, I’ve built with Next.js, styled with Tailwind, and deployed via Vercel, Render, and more.
+
+APIs? I love GCP, but I'm also good at using APIs or sending https requests.
+
+
+For any collaboration, Email me at: **ssongjinseob@gmail.com**  
