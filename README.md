@@ -1,23 +1,21 @@
-# Hi!
+# Hello
 
-💻 What I Do:
-At heart, I'm an AI researcher. I read at least two to five papers per month. I live and breathe deep learning, reinforcement learning, and the bleeding edge of AGI.
-I regularly dive into AI open-source communities and specialize in:
-🧠 PyTorch, NumPy, Pandas, torchRL
-…and 20+ other libraries that power modern DL & RL systems.
+I’m diving deep into the worlds of **Reinforcement Learning**, **Time Forecasting**, **Natural Language Processing**, and the wild ride of **startups**.
+My private repos usually contain merges of implementations of latest papers regarding quant, audio, and RL.
 
-Lately, I’ve been deep into RLHF on LLM and physical AI where intelligence meets embodiment.
+### 🧠 My ML toolbox includes:
+- **PyTorch**, **NumPy**, **Pandas**, **scikit-learn** — the classics  
+- **Gym**, **torch RL** and other deep reinforcement learning libraries — because I love training agents to think and act!
 
-🛠️ Beyond Research:
-I’m not just about algorithms—I build things too.
+### 📱 For apps & APIs:
+- Flutter to build slick cross-platform apps  
+- GCP for cloud power  
+- And a bunch of HTTP & AI APIs to make everything smarter and smoother
 
-App? I develop with Flutter.
+### 🌐 Backend & Web magic:
+- Next.js with Vercel for blazing-fast frontends  
+- Render, Supabase, Firebase & Clerk for scaling, auth, and data management
 
-Backend-ready? I use Firebase for quick development, supabase for more precise operations.
+---
 
-Full-stack? On Website side, I’ve built with Next.js, styled with Tailwind, and deployed via Vercel, Render, and more.
-
-APIs? I love GCP! Because of this, I'm also familiar w/ using APIs & https requests.
-
-
-For any collaboration, Email me at: **ssongjinseob@gmail.com**  
+Shoot me an email at **ssongjinseob@gmail.com** — I’m always open to ideas, projects, or just geek out about AI!
