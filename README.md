@@ -18,4 +18,7 @@ My private repos usually contain merges of implementations of latest papers rega
 
 ---
 
-Shoot me an email at **ssongjinseob@gmail.com** — I’m always open to ideas, projects, or just geek out about AI!
+Shoot me an email at **ssongjinseob@gmail.com** — I’m always open to ideas, projects, or just geek out about ml.
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=axion66)](https://github.com/anuraghazra/github-readme-stats)
+
